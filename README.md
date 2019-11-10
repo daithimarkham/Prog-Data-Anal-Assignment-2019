@@ -5,7 +5,8 @@
 # October 2019
 # G.M.I.T.
 
-![](NumpyRandom.jpg) Source (One Month, 2019)
+![download](NumpyRandom.jpg) 
+Source (One Month, 2019)
 
 ### For this assignment, we will be investigating the Numpy.Random package.  
 
