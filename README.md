@@ -5,6 +5,8 @@
 # October 2019
 # G.M.I.T.
 
+![](NumpyRandom.jpg) Source (One Month, 2019)
+
 ### For this assignment, we will be investigating the Numpy.Random package.  
 
 NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more. (Scipy.org)
@@ -26,7 +28,10 @@ There are numerous different ways of generating random numbers, which you can th
 
 For this assignment we will be using a Jupyter notebook to write the functions within numpy.random and explain our code.
 
-### How to get started and run Jupyter Notebook. 
+### How to get started and run Jupyter Notebook.
+
+- How to get <a href="https://learn.onemonth.com/jupyter-notebook-a-beginners-tutorial/" target="_blank">started</a>
+
 •	Create a new repository on Github, name it, initialize a ReadMe, Add.gitignore-Python, license, and click on clone/download and copy the link.
 
 •	Go to your command line, cd desktop, and type: git clone, space and right click. Creates folder you just created on Github.
@@ -51,11 +56,17 @@ For this assignment we will be using a Jupyter notebook to write the functions w
 
 •	Repository, ReadMe and Gitignore created.
 
+Please find in the Jupyter Notebook file, an investigation into the Numpy.Random package, and some examples of how to generate random numbers.
+
 
 ### Bibliography 
-SciPy.org, The SciPy Community, 2019, viewed on 2019/10/18, https://docs.scipy.org/doc/numpy/user/whatisnumpy.html
 
-APMonitor, Youtube, 2017, viewed on 2019/11/04, https://www.youtube.com/watch?v=Z2zUGmqIDto 
 
-https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
+SciPy.org, The SciPy Community, 2019, viewed on 2019/10/18, available at: https://docs.scipy.org/doc/numpy/user/whatisnumpy.html
+
+APMonitor, Youtube, 2017, viewed on 2019/11/04, available at: https://www.youtube.com/watch?v=Z2zUGmqIDto 
+
+Sci.Py.org, 2019, viewed on the 2019/11/07, available at: https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
+
+One Month, 2019, Jupyter Notebook, viewed on the 2019/11/10, available at: https://learn.onemonth.com/jupyter-notebook-a-beginners-tutorial/
  
