@@ -5,8 +5,7 @@
 # October 2019
 # G.M.I.T.
 
-![title](NumpyRandom.jpg) 
-Source (One Month, 2019)
+
 
 ### For this assignment, we will be investigating the Numpy.Random package.  
 
@@ -57,7 +56,7 @@ For this assignment we will be using a Jupyter notebook to write the functions w
 
 •	Repository, ReadMe and Gitignore created.
 
-Please find in the Jupyter Notebook file, an investigation into the Numpy.Random package, and some examples of how to generate random numbers.
+**Please find** in the Jupyter Notebook file, an investigation into the Numpy.Random package, and some examples of how to generate random numbers.
 
 
 ### Bibliography 
