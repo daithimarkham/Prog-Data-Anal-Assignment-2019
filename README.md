@@ -5,7 +5,7 @@
 # October 2019
 # G.M.I.T.
 
-![download](NumpyRandom.jpg) 
+![download](https://learn.onemonth.com/jupyter-notebook-a-beginners-tutorial/.jpg) 
 Source (One Month, 2019)
 
 ### For this assignment, we will be investigating the Numpy.Random package.  
